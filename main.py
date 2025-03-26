@@ -6,3 +6,4 @@ help()
 converter('123')
 
 print('hello!')
+print('hi')
